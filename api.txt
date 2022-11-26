@@ -1,0 +1,7 @@
+bdd092358a96e1bb8e200d5276d1eb1f
+https://api.themoviedb.org/3/movie/76341?api_key=<<api_key>>
+https://api.themoviedb.org/3/movie/popular?api_key=bdd092358a96e1bb8e200d5276d1eb1f
+
+https://image.tmdb.org/t/p/
+
+genre---https://api.themoviedb.org/3/discover/movie?api_key=bdd092358a96e1bb8e200d5276d1eb1f&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=1&with_genres=28&with_watch_monetization_types=flatrate

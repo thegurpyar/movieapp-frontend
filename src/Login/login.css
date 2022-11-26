@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.login input{
+    background-color: #D1E6FF;
+    margin-top:20px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    height: 5vh;
+    width: 50vw;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 8px;
+    border:solid 1px #00A3FF;
+    outline: none;
+}
+
+
+
+
+/* @media only screen and (min-width: 600px) {
+    .login input{
+        width: 80vw;   
+    }
+  } */
